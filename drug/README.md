@@ -13,6 +13,12 @@ comments training five ML algorithms on TF-IDF and CV
 feature extraction technique. Our results show that out of all
 ML algorithms, RF trained on CV surpass previous study results,
 with accuracy and F1 score of 96.65% and 96.42% respectively.
-Index Terms—drug sentiment analysis, machine learning, text
-classification
 
+#### Index Terms:
+drug sentiment analysis, machine learning, text classification
+
+### Research Collaboration 
+If you are interested in collaborating on research, please contact me.
+* Visit the Web of [Md Babul Isalm ](https://babulcseian.github.io/)
+*  Md Babul Islam's recent publications [Google Scholar](https://scholar.google.com/citations?user=Zaf5EhQAAAAJ&hl=en&authuser=1)
+* Email: babulcseian@gmail.com
