@@ -17,7 +17,7 @@ with accuracy and F1 score of 96.65% and 96.42% respectively.
 #### Index Terms:
 Drug sentiment analysis, machine learning, text classification. 
 
-<img src="Cyberbully 2023/1-ICDSNS-2023 Participation Certificate287.jpg" alt="The HTML and CSS Workshop" height="290px" width="230px" align="right" this.target="_blank">
+<img src="https://github.com/babulcseian/Paper-Publications-Project/blob/main/Cyberbully%202023/1-ICDSNS-2023%20Participation%20Certificate287.jpg" alt="The HTML and CSS Workshop" height="290px" width="230px" align="right" this.target="_blank">
 
 ### Research Collaboration 
 If you are interested in collaborating on research, please contact me.
